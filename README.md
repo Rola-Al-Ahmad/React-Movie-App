@@ -8,7 +8,7 @@ A modern, responsive movie discovery experience powered by the TMDB API. Built w
 
 ## 🔗 Live Demo
 
-- 👉 **View Deployed App** (https://Rola-Al-Ahmad.github.io/React-Movie-App)
+👉 [View Deployed App](https://Rola-Al-Ahmad.github.io/React-Movie-App)
 
 ---
 
